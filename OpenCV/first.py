@@ -1,5 +1,6 @@
 import cv2
 
+
 print(cv2.__version__)
 
 resim = cv2.imread('E:\What-I-learned-or-I-am-learning-what\What-I-learned\OpenCV\jaho.png',0)# dosyayi okur 
@@ -17,7 +18,7 @@ if k == 27:
     print('esc bastin')
 elif k == ord('s'):
     print('s tusuna bastin')
-    cv2.imwrite('jaho ama gri.png',resim)
+    cv2.imwrite('E:\What-I-learned-or-I-am-learning-what\What-I-learned\OpenCV\jaho ama gri.png',resim)
 
 
 cv2.destroyAllWindows() #bu alayini kapatir
