@@ -21,4 +21,6 @@ while cam.isOpened():
     if cv2.waitKey(1) ==ord('q'): # 'q'ya basinca donguden cikmak icin yoksa kapatamayiz ustam
         break
 
+print(cam.get(4)) #yuksekligi veriyor, sayi degerlerinin ne anlama geldigini buradan bakabiliriz https://www.programmersought.com/article/71733898510/
+print(cam.get(cv2.CAP_PROP_FRAME_HEIGHT)) #veya bu sekilde de yazabilir ve yuksekligi alabilir
 cv2.destroyAllWindows()
