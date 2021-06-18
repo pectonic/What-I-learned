@@ -11,6 +11,8 @@ cv2.namedWindow('isimlenmis babus', cv2.WINDOW_NORMAL) #bu windowun cozunurlugun
 while cam.isOpened(): 
     ret, frame= cam.read() #goruntuyu yakalamak icin okuma islemi
 
+    frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)#kamera filtre 
+
     if not ret: #okuyamazsa ne yapsin
         print('kamera okunamadi')
 
