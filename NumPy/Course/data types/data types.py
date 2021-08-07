@@ -75,7 +75,7 @@ print('-----------------------')
 #calismalarimizda bazi array'leri kaydetmek ve daha sonra kullanmak isteriz 
 
 kaydetmelik = np.array([1,2,3.5,16])
-np.save('test_save_1',kaydetmelik) #bu sekilde kaydettik ama nereye kaydedecegini cozemedim bakmak lazim 
+np.save('test_save_1.npy',kaydetmelik) #bu sekilde kaydettik ama nereye kaydedecegini cozemedim bakmak lazim 
 
 almalik = np.load('test_save_1.npy')
 print(almalik)
