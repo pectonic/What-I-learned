@@ -1,5 +1,5 @@
 import pandas as pd
-#bu derste loc/iloc/len/list/dict/sorted/max/drop/min, pandas Series indexing olayi islendi
+#bu derste loc/iloc/len/list/dict/sorted/max/drop/min/inplace, pandas Series indexing olayi islendi
 
 
 
