@@ -2,12 +2,12 @@ import pandas as pd
 
 #bu derste read/head/tail/sort_values/sort_index/get kullanildi
 
-""" review_content = pd.read_csv('Python\Pandas\Course Of Pandas\A) Pandas Series\ReviewContent.csv', encoding='utf-8', engine='python')  """# evet dosyamizi okuttuk, hatalar alirsak diye parametrelere atama yapabiliyoruz
+""" review_content = pd.read_csv('Python\Pandas\Course Of Pandas\ReviewContent.csv', encoding='utf-8', engine='python')  """# evet dosyamizi okuttuk, hatalar alirsak diye parametrelere atama yapabiliyoruz
 
 """ print(review_content) 
 print(type(review_content)) """ #evet bize DataFrame olarak yansiyor ki biz bunu ogrenmedik o yuzden Series olarak kullanacagiz bunu da .csv dosyasini tanimlarken parametrelerde belirtecegiz
 
-review_content = pd.read_csv('Python\Pandas\Course Of Pandas\A) Pandas Series\ReviewContent.csv', usecols=['Review ID'], squeeze=True, encoding='utf-8', engine='python') #usecols stun secmemize yariyor, squeeze ne bilmiyorum arastirmak lazim internet olsa ahh AHHH ANANI SIKEYIM TURKTELEKOM orospu cocuklari sizi... neyse squeeze false olunca Series olarak degil de DataFrame olarak aliyor yani Series olarak almak istersek lazim
+review_content = pd.read_csv('Python\Pandas\Course Of Pandas\ReviewContent.csv', usecols=['Review ID'], squeeze=True, encoding='utf-8', engine='python') #usecols stun secmemize yariyor, squeeze ne bilmiyorum arastirmak lazim internet olsa ahh AHHH ANANI SIKEYIM TURKTELEKOM orospu cocuklari sizi... neyse squeeze false olunca Series olarak degil de DataFrame olarak aliyor yani Series olarak almak istersek lazim
 
 '''print(type(review_content))''' # evet series oldu guzel
 """ print(review_content)""" # ilk 5 veriyi ve son 5 veriyi veriyor biz sadece bastan istedigimiz kadar veri istersek head() methodunu kullanabiliriz.(eger icini bos birakirsan defoult olarak 5 veri doner)
