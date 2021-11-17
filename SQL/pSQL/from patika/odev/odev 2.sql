@@ -11,7 +11,7 @@ Kolay Gelsin.
 
 */
 
--- #1
+-- #1 
 SELECT * FROM film
 WHERE (replacement_cost BETWEEN 12.99 AND 16.99) and replacement_cost <> 16.99;
 
