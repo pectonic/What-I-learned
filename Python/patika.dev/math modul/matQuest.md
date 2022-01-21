@@ -1,6 +1,7 @@
 # DOĞADA 0 VAR MI LA?
 
-Bunu çok düşündüm ve doğada sıfır olan bir şey düşünemedim. Aklım almıyor çünkü doğada hiçbir şey sıfır olmaz. Yok olmaz da diyebiliriz. Form değiştirir. E o zaman neden "doğal sayılar" kümesinde 0 var? Bunu çok düşündüm şimdi araştırma vakti. 
+Bunu çok düşündüm ve doğada sıfır olan bir şey düşünemedim. Aklım almıyor çünkü doğada hiçbir şey sıfır olmaz. Yok olmaz da diyebiliriz. Form değiştirir. E o zaman neden "doğal sayılar" kümesinde 0 var? Bunu çok düşündüm şimdi araştırma vakti.
+<img  alt="Rafa-pic" height="30" style="border-radius:300px;" src="https://c.tenor.com/VBk53-R2Nr0AAAAd/xqc-smashing-table.gif"> 
 
 ## İlk sorum "Doğal sayılar ismi nereden geliyor?"
 
@@ -11,6 +12,8 @@ Ulan biz ne zaman doğada 0'ı gördük be! Bilmiyorum belki ben hâlâ yanlış
 Laaa bak bilim dünyasında bile tartışmalı bir konuymuş senelerdir aklımı kurcalayan şey. 
 
 Sonuç olarak ben 0'ı doğada göremediğim için doğal sayılar kümesine dahil etmezdim. Tanrıya inanan insanlar ve Tanrının doğada olduğunu düşünüyorsa onlar 0'ı sayabilir çünkü bana göre Tanrı 0'ı temsil edebilir çünkü yok 👀 Yani yine 0'ı yine doğal sayılar kümesine dahil etmezdim. Bu benim görüşürüm. 
+
+<img  alt="Rafa-pic" height="30" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933776502393278474/933983753095741490/xqc-heart.gif"> 
 
 Neyse bence bir soru yeterli oldu 😎✌️
 
